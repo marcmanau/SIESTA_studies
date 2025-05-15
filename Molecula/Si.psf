@@ -1,0 +1,41 @@
+PSF
+
+       1 !NTITLE
+ REMARKS VMD-generated NAMD/X-Plor PSF structure file
+
+       8 !NATOM
+       1 U0   0    SI   SI1  SI                0       28.0855       0
+       2 U0   0    SI   SI2  SI                0       28.0855       0
+       3 U0   0    SI   SI3  SI                0       28.0855       0
+       4 U0   0    SI   SI4  SI                0       28.0855       0
+       5 U0   0    SI   SI5  SI                0       28.0855       0
+       6 U0   0    SI   SI6  SI                0       28.0855       0
+       7 U0   0    SI   SI7  SI                0       28.0855       0
+       8 U0   0    SI   SI8  SI                0       28.0855       0
+
+       0 !NBOND: bonds
+
+
+       0 !NTHETA: angles
+
+
+       0 !NPHI: dihedrals
+
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+
+
+       1       0 !NGRP
+       0       0       0
+
