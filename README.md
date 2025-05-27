@@ -8,4 +8,4 @@ The "benzene" file contains the generated benzene molecule using VMD builder and
 
 The "Crystal" folder contains the relaxation simulation using SIESTA for the silicon crystall.
 
-The "Band structure" folder contains the files related to the simulation and Python code to visualize the band structure of graphene. 
+The "Graphene band structure" folder contains the files related to the simulation and Python code to visualize the band structure of graphene. 
